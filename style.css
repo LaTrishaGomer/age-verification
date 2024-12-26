@@ -1,0 +1,40 @@
+body {
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+
+#imageContainer{
+    text-align: center;
+}
+
+.h2{
+        font-family: "Barrio", serif;
+        font-size: 30px;
+        font-weight: 400;
+        font-style: normal;
+        color: #ffffff;  
+}
+
+.h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: #d2a6b7;
+    color: #ffffff;
+    border: 0px;
+}
+
+#resultElement{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
